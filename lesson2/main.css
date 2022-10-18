@@ -1,0 +1,54 @@
+.main{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    column-gap: 10px;
+}
+.qwe{
+    display: flex;
+    background: #246abb;
+    width: 500px;
+    height: 230px;
+    font-size: 30px;
+    font-family: "Arial", sans-serif;
+    margin: 5px;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    border-radius: 5px;
+
+
+}
+.three-blocks{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 5px;
+}
+.asd{
+    display: flex;
+    background: #18467b;
+    width: 153px;
+    height: 200px;
+    font-size: 20px;
+    font-family: "Arial", sans-serif;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    border-radius: 5px;
+
+}
+.zxc{
+    display: flex;
+    background: #246abb;
+    width: 500px;
+    height: 430px;
+    font-size: 30px;
+    font-family: "Arial", sans-serif;
+    margin: 5px;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    border-radius: 5px;
+}
