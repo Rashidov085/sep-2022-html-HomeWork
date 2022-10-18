@@ -1,0 +1,38 @@
+.style{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 40px;
+    align-items: center;
+}
+
+.card{
+    width: 250px;
+    height: 350px;
+    /*background: #ce9595;*/
+    border: 2px solid #ababab;
+}
+
+.head{
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    padding: 90px 0 0 0;
+    align-items: center;
+    /*background: #aeb644;*/
+    box-sizing: border-box;
+}
+
+.text{
+    color: #a49fa1;
+    box-sizing: border-box;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.button{
+    border: 2px solid #ababab;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+}

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10410674-c133-42dc-9c71-fe18cbdd04bb" name="Changes" comment="done hw">
+    <list default="true" id="10410674-c133-42dc-9c71-fe18cbdd04bb" name="Changes" comment="transfer files to another directory">
+      <change afterPath="$PROJECT_DIR$/lesson2/card2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/card2/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/card2/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +44,11 @@
     "list.type.of.created.stylesheet": "CSS"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Adriana\IdeaProjects\sep-2022-html-HomeWork\lesson2\card1" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,7 +60,7 @@
       <workItem from="1666098389441" duration="70000" />
       <workItem from="1666098502421" duration="717000" />
       <workItem from="1666099290669" duration="42000" />
-      <workItem from="1666099353024" duration="6933000" />
+      <workItem from="1666099353024" duration="14264000" />
     </task>
     <task id="LOCAL-00001" summary="done hw">
       <created>1666105729299</created>
@@ -61,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666105729299</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="transfer files to another directory">
+      <created>1666106622505</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666106622505</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,6 +95,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="done hw" />
-    <option name="LAST_COMMIT_MESSAGE" value="done hw" />
+    <MESSAGE value="transfer files to another directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="transfer files to another directory" />
   </component>
 </project>
