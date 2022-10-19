@@ -10,6 +10,9 @@
     height: 350px;
     /*background: #ce9595;*/
     border: 2px solid #ababab;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .head{
@@ -34,5 +37,6 @@
     border: 2px solid #ababab;
     width: 100px;
     display: flex;
-    justify-content: center;
+    justify-contentfy-content: center;
+    padding: 0 0 0 20px;
 }
